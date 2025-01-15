@@ -1,0 +1,4 @@
+colorama
+asyncio
+requests
+bs4
