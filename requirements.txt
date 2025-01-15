@@ -2,3 +2,10 @@ colorama
 asyncio
 requests
 bs4
+dnspython
+urllib3
+hashlib
+sockets
+subprocess.run
+python-whois
+jsons
