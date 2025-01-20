@@ -14,6 +14,8 @@ ReconX is a Python-based multi-tool framework designed for penetration testing, 
 8. **Hash Cracker Tool** - Cracks various types of hashes using a wordlist.
 9. **Web Enumerator Tool** - Performs web server enumeration to gather information about web servers.
 
+<img src="images/image1.png" alt="reconx" width="1000px">
+
 ## Requirements
 
 To run this framework, you need Python 3.6+ installed on your system along with the following dependencies:
